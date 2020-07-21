@@ -20,17 +20,6 @@ Python 3.6, wxPython 4.0.3
 3. python PyMine.py运行（在Linux下可能为 python3 PyMine.py)
 4. 可以使用Annaconda安装所需版本Python和wxPython
 
-#### 说明
-
-
-#### 贡献
-
-1. Fork the project
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
-
-
 #### Gitee Feature
 
 1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
